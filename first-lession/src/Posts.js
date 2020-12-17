@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import Row from './components/Row';
+import Row from './components/Row.jsx';
 const post_list_json = [
     {
       "userId": 1,
