@@ -1,0 +1,13 @@
+.arrowfunction{
+    color: red;
+    font-size: 2em;
+}
+
+table td, table th{
+    border: 1px gray solid;
+    padding: 5px 10px;
+   
+}
+table{
+    border-collapse: collapse;
+}
